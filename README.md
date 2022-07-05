@@ -18,7 +18,7 @@ Nesse projeto foi construído um site completo de uma barbearia, com três pági
 
 
 
-### Layout para mobile web
+### Layout para web
 ![image](https://user-images.githubusercontent.com/104464892/177404437-f65a763f-705e-4fa8-a22e-50b17c1ebf3b.png)
 ![image](https://user-images.githubusercontent.com/104464892/177405300-8f10e375-81d5-4e43-8cca-0b44e1dce7e0.png)
 ![image](https://user-images.githubusercontent.com/104464892/177405432-e2afbd48-3d88-4163-8623-8d77fd91b376.png)
